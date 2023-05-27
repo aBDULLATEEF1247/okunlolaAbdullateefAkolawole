@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okunlolaAbdullateefAkolawole
 - 👀 I’m interested in Robotics and Artificial Intelligence
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently learning artificial intelligence with matlab
 - 💞️ I’m looking to collaborate on Open AI
 - 📫 How to reach me ...
 
